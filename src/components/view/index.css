@@ -1,0 +1,15 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  width: 60%;
+  justify-content: space-evenly;
+  list-style: none;
+}
+img {
+  width: 60%;
+}
